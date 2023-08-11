@@ -1,3 +1,4 @@
+# Check with https://github.com/editorconfig-checker/editorconfig-checker
 [*]
 indent_style = space
 end_of_line = lf
