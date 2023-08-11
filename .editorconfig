@@ -1,4 +1,5 @@
-# Check with https://github.com/editorconfig-checker/editorconfig-checker
+# Check files with https://github.com/editorconfig-checker/editorconfig-checker
+# brew install editorconfig-checker
 [*]
 indent_style = space
 end_of_line = lf
@@ -8,7 +9,7 @@ insert_final_newline = true
 max_line_length = 120
 indent_size = 2
 
-[*.sh,*.bash]
+[*.{sh,bash}]
 max_line_length = 80
 
 [*.md]
